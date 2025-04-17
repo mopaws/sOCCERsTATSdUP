@@ -1,0 +1,21 @@
+body{
+    background-color:white;
+}
+.game{
+background-color:white;
+
+}
+#heading{
+    background-color:#06048f;
+    margin-block-start: 0px;
+    margin-block-end:0px;
+    background-color: #06048f !important;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding: 25px;
+
+}
+#space{
+    background-color:#06048f;
+    margin: 0;
+}
